@@ -1,0 +1,9 @@
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<class>
+  <student>
+    <firstname>Mohamed</firstname>
+    <lastname>Mumtaz</lastname>
+    <Age>24</Age>
+  </student>
+</class>

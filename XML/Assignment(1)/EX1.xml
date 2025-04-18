@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE Family_Tree SYSTEM "Family.dtd">-->
+
+
+<Family_Tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xml_schema.xsd">
+
+  <person> 
+    <Type>Father</Type>
+    <Name>Mumtaz Mohamed Eleaba</Name>
+    <Gender>Male</Gender>
+    <Age>63</Age>
+  </person>
+
+  <person > 
+    <Type>Mother</Type>
+    <Name>Mama</Name>
+    <Gender>Female</Gender>
+    <Age>56</Age>
+  </person>
+
+  <person > 
+    <Type>Sister</Type>
+    <Name>Zad Mumtaz Eleaba</Name>
+    <Gender>Female</Gender>
+    <Age>24</Age>
+  </person>
+
+</Family_Tree>

@@ -1,0 +1,8 @@
+<!ELEMENT Family_Tree (person+)>
+
+<!ELEMENT person (Type, Name, Gender, Age)>
+
+<!ELEMENT Type (#PCDATA) >
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Gender (#PCDATA)>
+<!ELEMENT Age (#PCDATA)>
